@@ -6,7 +6,6 @@ body{
 .flex{
     display: flex;
     margin-bottom: 150px;
-    font-size: 22px;
 }
 .bgimg{
     background-image: url(images/top-banner.png);
@@ -46,7 +45,7 @@ h1{
     background-size: 8%;
 }
 .shadow{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px 15px gray;
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
